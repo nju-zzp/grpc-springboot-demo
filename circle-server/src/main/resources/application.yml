@@ -1,0 +1,9 @@
+spring:
+  main:
+    web-application-type: none
+  application:
+    name: circle-server
+
+grpc:
+  server:
+    port: 9090
